@@ -1,0 +1,39 @@
+UNITS
+
+Practical Units Checking for Large Programs
+
+Adding Practical Units Checking for Large Programs
+
+Practical Units Checking for Industrial Programs
+
+Comprehensive Units Checking for Large programs
+
+Tool Supported Units Analysis for Large Programs
+
+Practical Units Checking
+
+(need a name for the tools - name after logicitian who knows about interpretation)
+
+
+
+TOOL
+
+Design, and Validation of a Tool for Implementing Logic Interpretations
+
+Design, and Validation of a Tool for Checkin Software Against The real World
+
+Design, and Validation of a Tool for Checking Real World Validity
+
+
+
+CASE STUDY/INTERPRETATION
+
+Checking the Real World Meaning of Software
+
+Checking What your Software Really Means
+
+Checking the meaning of Software and Data
+
+Is My Software Consistent With the Real World?
+
+Does My Software Fit the Real World?
